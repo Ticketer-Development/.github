@@ -1,4 +1,4 @@
-# Reedroux.biz 👋
+TicketBot. # Parent company Reedroux LLC 👋
 
 Hey! We're Reedroux.biz  and have been developing integrations on Discord since **2018**! We value user privacy and making Discord a better place to create your online community. So far we've helped over 1.4 million discord servers!
 
